@@ -13,6 +13,14 @@ A small local web app for listening to books, articles, markdown notes, and draf
 
 **Requirements:** macOS 12+, Python **3.10–3.12** (not 3.13+), [Homebrew](https://brew.sh) recommended.
 
+**This machine (CascadeProjects):** `~/CascadeProjects/chapter-reader` — open `chapter-reader.code-workspace` in Cursor, or:
+
+```bash
+cd ~/CascadeProjects/chapter-reader
+```
+
+**Clone elsewhere:**
+
 ```bash
 git clone https://github.com/heyitschien/chapter-reader.git
 cd chapter-reader
