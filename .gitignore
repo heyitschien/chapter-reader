@@ -1,0 +1,16 @@
+.venv/
+.cache/
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.egg-info/
+dist/
+build/
+audio/
+*.wav
+*.aiff
+.DS_Store
+.idea/
+.vscode/
+*.log
